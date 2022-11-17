@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     max-width: 100%;
    height:auto;
@@ -27,3 +28,34 @@ h1{
     font-size: xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+=======
+body{
+    max-width: 100%;
+   height:auto;
+    background-image: url("/bi.jpg");
+    width: 1300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    margin: auto;
+}
+.container{
+    display:flex;
+    align-items: center;
+}
+.phrase{
+    flex:1;
+    font-size: xx-large;
+    color: rgb(209, 110, 110);
+}
+.list{
+    flex:1;
+    font-size: xx-large;
+}
+h1{
+    color: rgb(170, 207, 7);
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+>>>>>>> 9f97dd75f04b56703b455f665d6b1f9c12157280
